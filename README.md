@@ -1,2 +1,2 @@
 # AndroidLoginApplication
-Basic android login application
+Basic android login application using java
